@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sayantani 👋</h1>
 
 <p align="center">
-  <em>CS student who gets way too excited about making computers do smart things 🤖</em>
+  <em>CS student who gets way too excited about making computers do smart things </em>
 </p>
 
 <p align="center">
