@@ -4,9 +4,6 @@
   <em>CS student who gets way too excited about making computers do smart things </em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayanntani&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
-</p>
 
 ---
 
